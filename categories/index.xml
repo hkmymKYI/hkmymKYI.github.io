@@ -7,15 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
     <copyright>Copyright © 2021</copyright>
-    <lastBuildDate>Thu, 08 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jan 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hkmymkyi.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>设计</title>
+      <link>https://hkmymkyi.github.io/categories/%E8%AE%BE%E8%AE%A1/</link>
+      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hkmymkyi.github.io/categories/%E8%AE%BE%E8%AE%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>诗</title>
+      <link>https://hkmymkyi.github.io/categories/%E8%AF%97/</link>
+      <pubDate>Sun, 29 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://hkmymkyi.github.io/categories/%E8%AF%97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>小说</title>
       <link>https://hkmymkyi.github.io/categories/%E5%B0%8F%E8%AF%B4/</link>
-      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://hkmymkyi.github.io/categories/%E5%B0%8F%E8%AF%B4/</guid>
       <description></description>
@@ -24,9 +42,18 @@
     <item>
       <title>译本</title>
       <link>https://hkmymkyi.github.io/categories/%E8%AF%91%E6%9C%AC/</link>
-      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://hkmymkyi.github.io/categories/%E8%AF%91%E6%9C%AC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>科普</title>
+      <link>https://hkmymkyi.github.io/categories/%E7%A7%91%E6%99%AE/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hkmymkyi.github.io/categories/%E7%A7%91%E6%99%AE/</guid>
       <description></description>
     </item>
     
@@ -45,15 +72,6 @@
       <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://hkmymkyi.github.io/categories/%E6%9D%82%E5%AD%A6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>科普</title>
-      <link>https://hkmymkyi.github.io/categories/%E7%A7%91%E6%99%AE/</link>
-      <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://hkmymkyi.github.io/categories/%E7%A7%91%E6%99%AE/</guid>
       <description></description>
     </item>
     
@@ -139,15 +157,6 @@
     </item>
     
     <item>
-      <title>诗</title>
-      <link>https://hkmymkyi.github.io/categories/%E8%AF%97/</link>
-      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://hkmymkyi.github.io/categories/%E8%AF%97/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>纪实</title>
       <link>https://hkmymkyi.github.io/categories/%E7%BA%AA%E5%AE%9E/</link>
       <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
@@ -171,15 +180,6 @@
       <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://hkmymkyi.github.io/categories/%E5%9B%BE%E5%83%8F%E5%B0%8F%E8%AF%B4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>设计</title>
-      <link>https://hkmymkyi.github.io/categories/%E8%AE%BE%E8%AE%A1/</link>
-      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://hkmymkyi.github.io/categories/%E8%AE%BE%E8%AE%A1/</guid>
       <description></description>
     </item>
     
